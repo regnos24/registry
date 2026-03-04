@@ -423,7 +423,9 @@
         "input.required",
         "session.start",
         "task.complete",
-        "task.error"
+        "task.error",
+        "task.acknowledge", 
+        "resource.limit"
       ],
       "language": "en",
       "license": "community",
