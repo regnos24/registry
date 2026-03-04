@@ -431,7 +431,7 @@
       "total_size_bytes": 634880,
       "source_repo": "regnos24/openpeon-aod-pack",
       "source_ref": "v1.0.0",
-      "source_path": "aod-pack",
+      "source_path": ".",
       "manifest_sha256": "629f83552343c3248160b3839da7cfb7914d3f9953d560365ae59456d7adade4",
       "tags": [
         "Army of Darkness", "Movie", "Ash", "Evil Dead", "Deadite", "Necronomicon", "Bruce Campbell"
